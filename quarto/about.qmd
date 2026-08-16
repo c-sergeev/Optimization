@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+This portfolio project demonstrates how mixed-integer linear programming can be used to minimize cost while meeting a delivery target.
+
+It covers demand-curve construction, seasonality, forecasting, incremental cost, and segmentation. The supporting analysis was completed in Python using PuLP, pandas, Prophet, and related data-science libraries.
