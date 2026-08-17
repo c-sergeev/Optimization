@@ -1,0 +1,28 @@
+# Quarto generated files
+quarto/_site/
+quarto/.quarto/
+
+# Old notebook export
+Untitled-2.html
+Untitled-2_files/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor
+.vscode/
+quarto/.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Draft and obsolete files
+Project plan.txt
+Untitled-1.ipynb
