@@ -1,8 +1,11 @@
+![](images/device-photo.png)
+
+<br>
+
 ---
 title: "Cost Optimization with Linear Programming"
 ---
 
-<br>
 
 ## 1. Introduction
 
