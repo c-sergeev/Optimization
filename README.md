@@ -1,44 +1,26 @@
-\# Optimization with Linear Programming
+# Cost Optimization with Linear Programming
 
+**[View the interactive project website](https://c-sergeev.github.io/Optimization/)**
 
+This project explores how **Mixed-Integer Linear Programming (MILP)** can identify the most cost-effective purchasing strategy when prices, quantities, and available options vary.
 
-This project demonstrates how mixed-integer linear programming can be used to minimize cost while meeting a delivery target under changing demand conditions.
+Starting with a simple auction-based example, the analysis extends to more realistic business scenarios involving price forecasting, market segmentation, and incremental costs.
 
+## Project contents
 
+- **Quarto website** — A step-by-step explanation of the optimization approach, supported by visual examples.
+- **Jupyter notebook** — Python implementation, analysis, and chart generation.
+- **Supporting data** — An electricity-demand dataset used to illustrate forecasting and seasonality.
 
-The project includes:
+## Project structure
 
+- `quarto/` — Quarto website source and images
+- `Optimization analysis.ipynb` — Analysis and chart generation
+- `data/` — Supporting dataset
 
-
-\- A Quarto website explaining the optimization approach
-
-\- A Jupyter notebook containing the analysis
-
-\- An electricity-demand dataset used to demonstrate forecasting and seasonality
-
-\- Charts illustrating demand curves and optimization results
-
-
-
-\## Project structure
-
-
-
-\- `quarto/` — Quarto website source
-
-\- `Optimization analysis.ipynb` — analysis and chart generation
-
-\- `data/` — supporting dataset
-
-
-
-\## Preview the website locally
-
-
+## Preview the website locally
 
 ```powershell
-
 cd quarto
-
 quarto preview
-
+```
