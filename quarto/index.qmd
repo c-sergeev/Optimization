@@ -11,7 +11,7 @@ title: "Cost Optimization with Linear Programming"
 
 Since the mid-20th century, mathematical optimization techniques such as Mixed-Integer Linear Programming (MILP) have helped businesses minimize costs, maximize profits, and make better decisions under practical constraints.
 
-In this project, we'll explore how MILP can solve a common business challenge: when different purchasing options offer different relationships between price and quantity, how can we meet an overall target at the lowest possible cost?
+In this project, we'll explore how MILP can solve a common business challenge: when different purchasing options offer different relationships between price and quantity, how can we meet an overall target at the lowest possible cost.
 
 We'll begin with a simple example and gradually extend it to more realistic scenarios involving price forecasting, market segmentation, and the cost of purchasing additional units.
 
